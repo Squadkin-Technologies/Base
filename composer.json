@@ -2,15 +2,19 @@
     "name": "squadkin/module-base",
     "description": "Squadkin Base",
     "type": "magento2-module",
-    "license": "GPL-3.0",
+    "license": "proprietary",
+    "version": "1.0.0",
     "authors": [
         {
-            "name": "Mage2Gen",
-            "email": "info@mage2gen.com"
+            "name": "Squadkin Technologies Pvt. Ltd.",
+            "email": "support@squadkin.com",
+            "homepage": "https://www.squadkin.com/"
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "php": ">=8.0"
+    },
     "autoload": {
         "files": [
             "registration.php"

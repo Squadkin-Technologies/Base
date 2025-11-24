@@ -1,17 +1,24 @@
-Copyright © 2025-present 
+Copyright (c) 2025 Squadkin. All Rights Reserved.
 
-This file is part of Squadkin/Base.
+PROPRIETARY SOFTWARE - DO NOT COPY OR DISTRIBUTE
 
-Squadkin/Base is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+This file is part of Squadkin Base Module, a proprietary Magento 2 extension 
+developed exclusively for integration with SquadexaAI.
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
+NOTICE: This software is the proprietary and confidential property of Squadkin. 
+All rights, title, and interest in and to this software, including all intellectual 
+property rights, are and shall remain the exclusive property of Squadkin.
 
-You should have received a copy of the GNU General Public License
-along with this program. If not, see <http://www.gnu.org/licenses/>.
-Please see LICENSE.txt for the full text of GNU General Public License
+UNAUTHORIZED COPYING, REPRODUCTION, DISTRIBUTION, OR USE OF THIS SOFTWARE, 
+VIA ANY MEDIUM, IS STRICTLY PROHIBITED AND MAY RESULT IN SEVERE CIVIL AND 
+CRIMINAL PENALTIES.
+
+This software is protected by copyright laws and international copyright treaties, 
+as well as other intellectual property laws and treaties.
+
+For licensing information, please contact:
+Squadkin
+Email: support@squadkin.com
+Website: https://squadkin.com
+
+© 2025 Squadkin. All rights reserved.

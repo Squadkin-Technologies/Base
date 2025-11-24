@@ -1,0 +1,18 @@
+/**
+ * Custom SVG logo for Squadkin admin menu sidebar
+ */
+
+li[data-ui-id="menu-squadkin-top-level"] > a::before {
+    content: '' !important;
+    font-family: inherit !important;
+    font-size: 0 !important;
+    background-image: url('../images/squadkin-logo.svg') !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    width: 2.3rem !important;
+    height: 2.3rem !important;
+    display: block !important;
+    margin: 0 auto 0.7rem auto !important;
+    text-align: center;
+}
