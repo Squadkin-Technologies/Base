@@ -25,26 +25,10 @@ This module is unique in the market and is the only authorized base module for S
 
 \* = in production please use the `--keep-generated` option
 
-### Type 1: Manual Installation (Zip file)
+### Composer Installation (Recommended)
 
-1. Extract the module files to `app/code/Squadkin/Base`
-2. Enable the module:
-   ```bash
-   php bin/magento module:enable Squadkin_Base
-   ```
-3. Apply database updates:
-   ```bash
-   php bin/magento setup:upgrade
-   ```
-4. Flush the cache:
-   ```bash
-   php bin/magento cache:flush
-   ```
-
-### Type 2: Composer Installation
-
-1. Add the module to your composer repository (private repository recommended)
-2. Install via Composer:
+1. Add the module to your Composer repositories (private repository recommended)
+2. Require the package:
    ```bash
    composer require squadkin/module-base
    ```
@@ -56,7 +40,23 @@ This module is unique in the market and is the only authorized base module for S
    ```bash
    php bin/magento setup:upgrade
    ```
-5. Flush the cache:
+5. Flush cache:
+   ```bash
+   php bin/magento cache:flush
+   ```
+
+### Manual Installation (ZIP/TAR)
+
+1. Extract the module files to `app/code/Squadkin/Base`
+2. Enable the module:
+   ```bash
+   php bin/magento module:enable Squadkin_Base
+   ```
+3. Apply database updates:
+   ```bash
+   php bin/magento setup:upgrade
+   ```
+4. Flush cache:
    ```bash
    php bin/magento cache:flush
    ```
