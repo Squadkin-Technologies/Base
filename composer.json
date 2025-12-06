@@ -1,6 +1,6 @@
 {
-    "name": "squadkin/module-base",
-    "description": "Squadkin Base",
+    "name": "squadkintechnologies/module-base",
+    "description": "Squadkin Technologies Base Module",
     "type": "magento2-module",
     "license": "proprietary",
     "version": "1.0.0",
