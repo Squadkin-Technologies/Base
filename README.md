@@ -30,7 +30,7 @@ This module is unique in the market and is the only authorized base module for S
 1. Add the module to your Composer repositories (private repository recommended)
 2. Require the package:
    ```bash
-   composer require squadkin/module-base
+   composer require squadkintechnologies/module-base
    ```
 3. Enable the module:
    ```bash
